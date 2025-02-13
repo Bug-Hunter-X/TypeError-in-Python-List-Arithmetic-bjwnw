@@ -1,0 +1,1 @@
+This repository contains examples of a common Python error: TypeErrors that can arise during list processing. The `bug.py` file shows the error, while `bugSolution.py` presents a solution using error handling to make the code more robust.
